@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Anil Panchitha | AI and ML Engineer</title><desc id="desc">Generative AI, agentic systems, and RAG. Python, FastAPI, and intelligent automation.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#101a40"/><stop offset=".52" stop-color="#392275"/><stop offset="1" stop-color="#086976"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#5eead4"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1120" cy="25" r="180" fill="#22d3ee" opacity=".08"/><circle cx="1040" cy="300" r="150" fill="#8b5cf6" opacity=".12"/>
+<path d="M920 120 L1000 70 L1090 135 L1050 235 L945 250 Z M920 120 L1050 235 M1000 70 L945 250 M1090 135 L945 250" fill="none" stroke="#67e8f9" stroke-width="2" stroke-opacity=".45"/>
+<g fill="#5eead4"><circle cx="920" cy="120" r="7"/><circle cx="1000" cy="70" r="7"/><circle cx="1090" cy="135" r="7"/><circle cx="1050" cy="235" r="7"/><circle cx="945" cy="250" r="7"/></g>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="64" y="65" fill="#5eead4" font-size="16" font-weight="700" letter-spacing="4">SOFTWARE ENGINEER · AI / ML</text>
+<text x="60" y="140" fill="#ffffff" font-size="64" font-weight="750">Anil Panchitha</text>
+<text x="64" y="191" fill="#ddd6fe" font-size="25">Generative AI. Agentic systems. Grounded answers.</text>
+<rect x="64" y="220" width="580" height="3" rx="1.5" fill="url(#accent)"/>
+<g font-size="16" font-weight="600"><rect x="64" y="250" width="124" height="38" rx="19" fill="#2563eb"/><text x="90" y="275" fill="white">PYTHON</text><rect x="202" y="250" width="126" height="38" rx="19" fill="#7c3aed"/><text x="225" y="275" fill="white">AGENTIC AI</text><rect x="342" y="250" width="120" height="38" rx="19" fill="#0d9488"/><text x="371" y="275" fill="white">RAG</text><rect x="476" y="250" width="158" height="38" rx="19" fill="#155e75"/><text x="500" y="275" fill="white">FASTAPI + APIs</text></g>
+<text x="64" y="328" fill="#cbd5e1" font-size="15">Enterprise AI experience at Cisco · Research · Applied engineering</text></g></svg>
