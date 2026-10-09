@@ -4,7 +4,7 @@
 
 ### Building intelligent systems from retrieval to real-world workflows.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/panchitha-anil-507694241/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/anil-panchitha-507694241/)
 [![Explore Nexora](https://img.shields.io/badge/Nexora_AI-Explore_the_code-7C3AED?style=for-the-badge)](https://github.com/Anilyadav1718/Agentic-AI-with-RAG)
 [![Research](https://img.shields.io/badge/Research-Springer_publication-0D9488?style=for-the-badge)](https://doi.org/10.1007/978-3-031-94283-9_21)
 
@@ -152,6 +152,6 @@ Institute of Aeronautical Engineering, Hyderabad · 2021–2024
 
 Interested in my work or an opportunity in AI/ML, GenAI, or software engineering?
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let%27s_talk-Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/panchitha-anil-507694241/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let%27s_talk-Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/anil-panchitha-507694241/)
 
 </div>
